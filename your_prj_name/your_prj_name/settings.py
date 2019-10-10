@@ -131,3 +131,4 @@ USE_TZ = True
 STATIC_URL = '/static/'
 
 #test1
+#test2
