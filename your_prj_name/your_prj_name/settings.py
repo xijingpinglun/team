@@ -81,6 +81,7 @@ WSGI_APPLICATION = 'your_prj_name.wsgi.application'
 #     }
 # }
 
+#mysql
 DATABASES = {
     "default":{
         'ENGINE': 'django.db.backends.mysql',
